@@ -1,0 +1,1 @@
+<div class="loader"><h1 class="loadingtext"></h1><!-- <p>loading...</p><br> --><img src="images/loading2.gif" width="160" data-aos="zoom-out"> </div>

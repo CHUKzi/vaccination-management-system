@@ -1,0 +1,2 @@
+# custom error page
+#ErrorDocument 404 http://%{HTTP_HOST}/final_project/404.php
